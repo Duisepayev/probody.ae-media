@@ -24,7 +24,7 @@ body{width:1080px;height:1350px;overflow:hidden;font-family:M;color:#fff;backgro
 .grain{position:absolute;inset:0;opacity:.07;pointer-events:none;mix-blend-mode:overlay;
  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>")}
 .top{position:absolute;top:64px;left:80px;right:80px;display:flex;justify-content:space-between;align-items:center;z-index:5}
-.cover .top{text-shadow:0 2px 12px rgba(0,0,0,.6)}.cover .count{color:#fff}
+.cover .top,.split .top{text-shadow:0 2px 12px rgba(0,0,0,.6)}.cover .count,.split .count{color:#fff}
 .logo{font-family:MA;font-weight:800;font-size:30px;letter-spacing:.5px}
 .logo i{font-style:normal;color:var(--y)}
 .count{font-family:MA;font-weight:600;font-size:24px;color:var(--soft);letter-spacing:2px}
