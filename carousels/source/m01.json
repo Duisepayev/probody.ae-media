@@ -1,0 +1,6 @@
+{"id":"m01-meet-michelle","slides":[
+{"type":"cover","photo":"../photos/michelle-m3.jpg","pos":"center 18%","tag":"Meet the therapist","title":"Meet <em>Michelle</em>","sub":"Massage therapist in Dubai Marina. Home visits too."},
+{"type":"text","kicker":"Dubai Marina · Outcall","title":"Who she is","text":["Professional massage therapist. Her focus: <b>releasing muscle tension</b> and helping you properly switch off."],"chips":["Deep tissue","Swedish","Relaxing","Lomi lomi"]},
+{"type":"text","kicker":"Pick your session","title":"Which one is for you?","list":[["Deep tissue","Tight back and shoulders, after the gym"],["Swedish","Your first massage or a classic reset"],["Lomi lomi","Long, flowing strokes for a full switch-off"]]},
+{"type":"text","kicker":"How to book","title":"Simple and direct","list":[["Message her on WhatsApp","Ask for the price list and a time"],["Her place or yours","She also comes to your home or hotel"],["Pay in person, after the session","Never send a prepayment to anyone"]]},
+{"type":"cta","kicker":"Book directly","title":"Open Michelle's profile on pro-body.ae","text":"Services, area and direct contact. No middleman, free for guests.","search":["Michelle","Dubai Marina"],"share":"Send this to a friend in Marina"}]}
